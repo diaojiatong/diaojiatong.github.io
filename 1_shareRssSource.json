@@ -1,0 +1,24 @@
+[
+  {
+    "articleStyle": 0,
+    "customOrder": -100951,
+    "enableJs": true,
+    "enabled": true,
+    "enabledCookieJar": true,
+    "loadWithBaseUrl": true,
+    "ruleArticles": ".thumb-block",
+    "ruleContent": "body@all\n<js>var URL=result.match(/\\('(https:.*?\\.*mp4\\?.*?)'/)[1];\nresult = URL.replace(/\\\\/g,\"\");\nresult =\"<video src=\"+result+\" width=\\\"100%\\\" height=\\\"100%\\\" autoplay      muted controls>  </video>\"\n</js>",
+    "ruleImage": "img@data-src",
+    "ruleLink": "tag.a.0@href",
+    "ruleNextPage": "class.no-page next-page@href",
+    "rulePubDate": "交流暗号🐧892966579       🕐{{@@class.duration@text}}",
+    "ruleTitle": "a@title",
+    "singleUrl": false,
+    "sortUrl": "//搜索一设置源变量后再重进刷新下就行\n搜索一::https://s2.yxy57.icu/?k={{source.getVariable()}}\n\n\n//搜索二直接改搜索栏里的“k=”后面的文字就行\n搜索二::https://s2.yxy57.icu/?k=美女\n\n\n\n\n\n国产::https://s2.yxy57.icu/?k=国产\n欧美::https://s2.yxy57.icu/?k=欧美\n日韩::https://s2.yxy57.icu/?k=日韩\n白虎::https://s2.yxy57.icu/?k=白虎\n丝袜::https://s2.yxy57.icu/?k=丝袜\n中文::https://s2.yxy57.icu/?k=中文\n偷拍::https://s2.yxy57.icu/?k=偷拍\n",
+    "sourceComment": "搜索的使用方法看注释",
+    "sourceGroup": "R18",
+    "sourceIcon": "https://i.postimg.cc/tT45zyZQ/9399ca50f4495079a2c4f54f268dcad6.gif",
+    "sourceName": "玉羞园(免翻已修复)",
+    "sourceUrl": "https://s2.yxy57.icu/"
+  }
+]
